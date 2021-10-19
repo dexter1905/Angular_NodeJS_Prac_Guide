@@ -1,6 +1,7 @@
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+This is the project created for the course [MeanStack](https://tcsglobal.udemy.com/course/angular-2-and-nodejs-the-practical-guide/learn/lecture/10416244?start=15#overview)
 
 ## Development server
 
